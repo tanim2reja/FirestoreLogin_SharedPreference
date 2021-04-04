@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788597671992",
+    "project_id": "test-firestore-login",
+    "storage_bucket": "test-firestore-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788597671992:android:6cd0c4eb013ee584e53ecd",
+        "android_client_info": {
+          "package_name": "com.jolpai.firestorelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788597671992-e9lpn1j3r31rvb0on1861ppii6lt1j3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALQ-xjvx6FOuiHKUiA0rUJF23_Srz5VOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788597671992-e9lpn1j3r31rvb0on1861ppii6lt1j3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
